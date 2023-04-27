@@ -3,11 +3,11 @@
   <title>陈稀饭のBlog</title>
   
   <subtitle>生活可爱才能充满期待</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://yiwanxifan.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://yiwanxifan.github.io/"/>
   <updated>2023-04-25T12:14:06.594Z</updated>
-  <id>http://example.com/</id>
+  <id>http://yiwanxifan.github.io/</id>
   
   <author>
     <name>陈稀饭</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="http://yiwanxifan.github.io/posts/4a17b156.html"/>
+    <id>http://yiwanxifan.github.io/posts/4a17b156.html</id>
     <published>2023-04-25T10:22:23.510Z</published>
     <updated>2023-04-25T12:14:06.594Z</updated>
     
