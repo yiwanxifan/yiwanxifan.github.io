@@ -6,7 +6,7 @@
   <link href="https://xifana.cn/atom.xml" rel="self"/>
   
   <link href="https://xifana.cn/"/>
-  <updated>2023-04-28T03:38:33.707Z</updated>
+  <updated>2023-04-28T12:57:15.423Z</updated>
   <id>https://xifana.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>技术更新</title>
+    <link href="https://xifana.cn/posts/9a18fb74.html"/>
+    <id>https://xifana.cn/posts/9a18fb74.html</id>
+    <published>2023-04-28T12:39:06.000Z</published>
+    <updated>2023-04-28T12:57:15.423Z</updated>
+    
+    <content type="html"><![CDATA[<p>以此文章作为时间轴。<br>主要记录更新应用、插件、应用，来记录时间轴。<br>之后会修改成正文，暂时储存在这里。</p><p>正文：修改了原本直接显示主页内容的方式，添加了特效，即往下方浏览，内容浮现1次<br>添加了主页的右上角的留言板、信封，具体使用看之后呈现的效果。<br>添加了贡献图，就是主页第一个方框，一直转圈的那个，不知道什么原因显示不了。显示出来应该是颜色深度的分布——表示的是使用频率。</p><p>错误存在：之前修改的图标，突然今天就显示了。之前代码一直报错。图片压缩的软件估计也有问题。<br>插件安装也报错，导致更新没有通知，所幸大致界面应用无异常，又不敢大改代码。之后会努力找到问题并完善。</p><p>敬请期待一次更新。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;以此文章作为时间轴。&lt;br&gt;主要记录更新应用、插件、应用，来记录时间轴。&lt;br&gt;之后会修改成正文，暂时储存在这里。&lt;/p&gt;
+&lt;p&gt;正文：修改了原本直接显示主页内容的方式，添加了特效，即往下方浏览，内容浮现1次&lt;br&gt;添加了主页的右上角的留言板、信封，具体使用看之后呈现的效果</summary>
+      
+    
+    
+    
+    
+    <category term="更新" scheme="https://xifana.cn/tags/%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>测试文章</title>
