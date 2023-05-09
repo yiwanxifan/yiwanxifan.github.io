@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xifana.cn/about/index.html</loc>
+    
+    <lastmod>2023-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xifana.cn/posts/45418e2c.html</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -112,7 +121,7 @@
 
   <url>
     <loc>https://xifana.cn/</loc>
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,7 +129,7 @@
   
   <url>
     <loc>https://xifana.cn/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
