@@ -6,7 +6,7 @@
   <link href="https://xifana.cn/atom.xml" rel="self"/>
   
   <link href="https://xifana.cn/"/>
-  <updated>2023-05-14T14:10:25.818Z</updated>
+  <updated>2023-05-15T15:51:42.013Z</updated>
   <id>https://xifana.cn/</id>
   
   <author>
@@ -17,142 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>5月6日  “画廊”上线</title>
-    <link href="https://xifana.cn/posts/45418e2c.html"/>
-    <id>https://xifana.cn/posts/45418e2c.html</id>
-    <published>2023-05-06T12:39:06.000Z</published>
-    <updated>2023-05-14T14:10:25.818Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code> 增加右上角“画廊”功能，以供今后上传照片使用，只用作纪念，无其他作用。 其他相册等待后期更新。后续想着优化一下相册，排版太直白。更新点：1.标签栏、分类栏即将是下一个上线点，但作用并不大，所以不做大篇幅写。        2.继续等待评论系统上线。漏洞：1.今天被别人提醒，发现页脚标字重复，在大致排查中没有发现问题出在哪。</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt; 增加右上角“画廊”功能，以供今后上传照片使用，只用作纪念，无其他作用。
- 其他相册等待后期更新。后续想着优化一下相册，排版太直白。
-
-更新点：1.标签栏、分类栏即将是下一个上线点，但作用并不大，所以不做大篇幅写。
-        2.继续等待评论系统上线。</summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="https://xifana.cn/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>5月4日 更新内容</title>
-    <link href="https://xifana.cn/posts/f213c33e.html"/>
-    <id>https://xifana.cn/posts/f213c33e.html</id>
-    <published>2023-05-04T14:00:44.000Z</published>
-    <updated>2023-05-14T14:10:20.501Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>更新内容：1.更新了副标题，共79句有趣的句子，使用了打字机效果预览，是顺序播放，刷新页面的时候，会从头开始。</code></pre><p>之前考虑随机播放的，但是命令不匹配只能作罢，完善也是之后。<br>    2.增加了页脚的徽标，之后也会更新。</p><p>缺陷：1.网页加载慢，移动端也是如此，可能是图片压缩插件的问题，具体需要之后排查。<br>     2.缺少标签、分类页，也就是在右上角的施工中、施工ing，第一是没内容，第二是子页建立存在问题。</p><p>下次更新：1.评论、弹幕将作为主更新点。<br>          2.其次是标签和分类。<br>          3.页面美化及网页浏览问题最后解决。</p><p>具体完善会随时间搁置，预计暑假之前，整个网站完善。<br>在此之前，待评论、弹幕系统上线后，可使用此网站。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;更新内容：
-1.更新了副标题，共79句有趣的句子，使用了打字机效果预览，是顺序播放，刷新页面的时候，会从头开始。
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;之前考虑随机播放的，但是命令不匹配只能作罢，完善也是之后。&lt;br&gt;    2.增加了页脚的徽标，之后也会更新。&lt;</summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="https://xifana.cn/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>废料利用</title>
-    <link href="https://xifana.cn/posts/6a05b400.html"/>
-    <id>https://xifana.cn/posts/6a05b400.html</id>
-    <published>2023-04-28T15:09:34.000Z</published>
-    <updated>2023-05-14T14:10:35.067Z</updated>
-    
-    <content type="html"><![CDATA[<p>这爷是用来凑篇数的，自动忽略哈！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这爷是用来凑篇数的，自动忽略哈！&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="https://xifana.cn/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>更新导航栏人潮涌动</title>
-    <link href="https://xifana.cn/posts/9d2d750f.html"/>
-    <id>https://xifana.cn/posts/9d2d750f.html</id>
-    <published>2023-04-28T13:29:13.000Z</published>
-    <updated>2023-05-14T14:10:41.598Z</updated>
-    
-    <content type="html"><![CDATA[<p> 更新：新增了“人潮涌动”的导航栏</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt; 更新：新增了“人潮涌动”的导航栏&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>4月28日技术更新</title>
-    <link href="https://xifana.cn/posts/9a18fb74.html"/>
-    <id>https://xifana.cn/posts/9a18fb74.html</id>
-    <published>2023-04-28T12:39:06.000Z</published>
-    <updated>2023-05-14T14:10:09.812Z</updated>
-    
-    <content type="html"><![CDATA[<p>以此文章作为时间轴。<br>主要记录更新应用、插件、应用，来记录时间轴。<br>之后会修改成正文，暂时储存在这里。</p><p>正文：修改了原本直接显示主页内容的方式，添加了特效，即往下方浏览，内容浮现1次<br>添加了主页的右上角的留言板、信封，具体使用看之后呈现的效果。<br>添加了贡献图，就是主页第一个方框，一直转圈的那个，不知道什么原因显示不了。显示出来应该是颜色深度的分布——表示的是使用频率。</p><p>错误存在：之前修改的图标，突然今天就显示了。之前代码一直报错。图片压缩的软件估计也有问题。<br>插件安装也报错，导致更新没有通知，所幸大致界面应用无异常，又不敢大改代码。之后会努力找到问题并完善。</p><p>敬请期待一次更新。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;以此文章作为时间轴。&lt;br&gt;主要记录更新应用、插件、应用，来记录时间轴。&lt;br&gt;之后会修改成正文，暂时储存在这里。&lt;/p&gt;
-&lt;p&gt;正文：修改了原本直接显示主页内容的方式，添加了特效，即往下方浏览，内容浮现1次&lt;br&gt;添加了主页的右上角的留言板、信封，具体使用看之后呈现的效果</summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="https://xifana.cn/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试文章</title>
+    <title>写在前面</title>
     <link href="https://xifana.cn/posts/7a6a6b5a.html"/>
     <id>https://xifana.cn/posts/7a6a6b5a.html</id>
-    <published>2023-04-28T02:59:48.000Z</published>
-    <updated>2023-05-14T14:10:30.413Z</updated>
+    <published>2023-05-15T02:59:48.000Z</published>
+    <updated>2023-05-15T15:51:42.013Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>这里是测试文章，之后会修改内容。</code></pre><p>以下随便摘选空间说说一段文字以查看效果：<br> 风，舒爽的和风吹过两人之间。在茉莉的凝视下，阿九笑了，同时肉体和精神也都突然变轻了。就这样，阿九将视线移向天空。晴空万里，阿九微笑地抬头仰望。虽然很平常，但他却很感谢眼前的晴空。不需要有特别的东西，只要还有灿烂的阳光、有儿时玩伴的茉莉陪伴、自己还能对这个世界有贡献，尤其重要的是自己还能够感谢，阿九打从真心感激这一切。一如想好好品味这一瞬间，阿九眨一眨眼睛，也为了将这个包含自己的世界深深烙印在心中。他很感谢自己还能有所贡献。阿九举目仰望清澄的蓝天，不断在心中重复说着：“感谢，感谢。”</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="是的，这里没有内容。"><a href="#是的，这里没有内容。" class="headerlink" title="是的，这里没有内容。"></a>是的，这里没有内容。</h1><h1 id="之后我会添加"><a href="#之后我会添加" class="headerlink" title="之后我会添加"></a>之后我会添加</h1><div class="gallery">    <div class="fj-gallery  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/Gallery/2023/1.jpg","alt":"alt"},{"url":"/Gallery/2023/2.jpg","alt":"alt"}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
     
     
       
       
-    <summary type="html">&lt;pre&gt;&lt;code&gt;这里是测试文章，之后会修改内容。
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;以下随便摘选空间说说一段文字以查看效果：&lt;br&gt; 风，舒爽的和风吹过两人之间。在茉莉的凝视下，阿九笑了，同时肉体和精神也都突然变轻了。就这样，阿九将视线移向天空。晴空万里，阿九微笑地抬头仰望。</summary>
+    <summary type="html">&lt;h1 id=&quot;是的，这里没有内容。&quot;&gt;&lt;a href=&quot;#是的，这里没有内容。&quot; class=&quot;headerlink&quot; title=&quot;是的，这里没有内容。&quot;&gt;&lt;/a&gt;是的，这里没有内容。&lt;/h1&gt;&lt;h1 id=&quot;之后我会添加&quot;&gt;&lt;a href=&quot;#之后我会添加&quot; class=&quot;</summary>
       
     
     
     
+    <category term="大学" scheme="https://xifana.cn/categories/%E5%A4%A7%E5%AD%A6/"/>
     
-    <category term="技术" scheme="https://xifana.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="感悟" scheme="https://xifana.cn/tags/%E6%84%9F%E6%82%9F/"/>
     
   </entry>
   
