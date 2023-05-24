@@ -1399,7 +1399,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://img1.imgtp.com/2023/05/13/azotfDt0.jpg);
+  background: url(https://minicom.s3.us-east-005.backblazeb2.com/%E7%8E%B2%E8%8A%BD1.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5884,7 +5884,7 @@ blockquote.pullquote.right {
   #about-page .about-statistic {
     min-height: 380px;
     width: 39%;
-    background: url(https://img01.anzhiy.cn/useruploads/0/2023/05/13/645f268b07ee8.jpg) no-repeat top;
+    background: url(https://minicom.s3.us-east-005.backblazeb2.com/1683817791968.jpg) no-repeat top;
     background-size: cover;
     color: var(--anzhiyu-white);
     overflow: hidden;
@@ -6043,7 +6043,7 @@ blockquote.pullquote.right {
   }
   
   .author-content-item.map {
-    background: url(https://img01.anzhiy.cn/useruploads/0/2023/05/12/645e4e28930f8.png) no-repeat center;
+    background: url(https://minicom.s3.us-east-005.backblazeb2.com/%E9%87%8D%E5%BA%86.png) no-repeat center;
     min-height: 160px;
     max-height: 400px;
     position: relative;
@@ -6054,7 +6054,7 @@ blockquote.pullquote.right {
     transition: 1s ease-in-out;
   }
   [data-theme="dark"] .author-content-item.map {
-    background: url(https://img01.anzhiy.cn/useruploads/0/2023/05/12/645e4e28930f8.png) no-repeat center;
+    background: url(https://minicom.s3.us-east-005.backblazeb2.com/%E9%87%8D%E5%BA%86.png) no-repeat center;
     background-size: 100%;
   }
   
@@ -6354,7 +6354,7 @@ blockquote.pullquote.right {
     transition: 2s ease-in-out;
   }
   .author-content-item.game-yuanshen {
-    background: url(https://img1.imgtp.com/2023/05/13/3tigjGnP.jpg) no-repeat top;
+    background: url(https://minicom.s3.us-east-005.backblazeb2.com/%E5%BF%AB%E4%B9%90%E6%9C%88%E5%88%8A.jpg) no-repeat top;
     background-size: cover;
     min-height: 300px;
     overflow: hidden;
@@ -6379,7 +6379,7 @@ blockquote.pullquote.right {
     margin-right: 0.5rem;
   }
   .icon-pos-mid {
-    background: url(https://img1.imgtp.com/2023/05/13/3tigjGnP.jpg);
+    background: url(https://minicom.s3.us-east-005.backblazeb2.com/%E5%BF%AB%E4%B9%90%E6%9C%88%E5%88%8A.jpg);
   }
   .author-content-item.game-yuanshen::after {
     box-shadow: 0 -69px 203px 11px #FFFFFF inset;
@@ -6393,7 +6393,7 @@ blockquote.pullquote.right {
   
   .author-content-item.comic-content {
     width: 39%;
-    background: url(https://img1.imgtp.com/2023/05/13/s8WAJwHb.jpg) no-repeat top;
+    background: url(https://minicom.s3.us-east-005.backblazeb2.com/%E6%B5%B7%E7%BB%B5.jpg) no-repeat top;
     background-size: cover;
     min-height: 300px;
     overflow: hidden;
@@ -6410,14 +6410,14 @@ blockquote.pullquote.right {
   }
   
   .author-content-item.like-technology {
-    background: url(https://img01.anzhiy.cn/useruploads/0/2023/05/13/645f2edb5fb5b.jpg) no-repeat;
+    background: url(https://minicom.s3.us-east-005.backblazeb2.com/mmexport1683505170398.jpg) no-repeat;
     background-size: cover;
     min-height: 230px;
     color: #FFFFFF;
   }
   
   .author-content-item.like-music {
-    background: url(https://img01.anzhiy.cn/useruploads/0/2023/05/13/645f29d945d45.jpg) no-repeat top;
+    background: url(https://minicom.s3.us-east-005.backblazeb2.com/1683817855528.jpg) no-repeat top;
     background-size: cover;
     min-height: 400px;
     color: #FFFFFF;
